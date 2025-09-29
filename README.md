@@ -263,8 +263,8 @@ If you use DCoTAgentAligner in your research, please cite:
 ```bibtex
 @software{dcot_agent_aligner,
   title={DCoTAgentAligner: Diverse Chain-of-Thought Agent Alignment},
-  author={LIMIT-GRAPH Research Team},
+  author={AI Research Agent Team},
   year={2024},
-  url={https://github.com/your-repo/LIMIT-GRAPH}
+  url={https://github.com/AI-Research-Agent-Team/ai_research_agent_DCoTAgentAligner}
 }
 ```
