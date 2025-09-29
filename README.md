@@ -254,7 +254,8 @@ DCoTAgentAligner integrates seamlessly with the broader LIMIT-GRAPH ecosystem:
 
 ## License
 
-This project is part of the LIMIT-GRAPH research framework and follows the same licensing terms.
+This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+
 
 ## Citation
 
