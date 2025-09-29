@@ -1,0 +1,26 @@
+# DCoTAgentAligner Requirements
+# Core dependencies for Diverse Chain-of-Thought Agent Alignment
+
+# Machine Learning and NLP
+numpy>=1.21.0
+scikit-learn>=1.0.0
+sentence-transformers>=2.2.0
+transformers>=4.20.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Data Processing
+pandas>=1.3.0
+
+# Dimensionality Reduction
+umap-learn>=0.5.0
+
+# Optional: Advanced embeddings
+# openai>=0.27.0  # For OpenAI embeddings
+# cohere>=4.0.0   # For Cohere embeddings
+
+# Development and Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
